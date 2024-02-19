@@ -14,4 +14,4 @@ Projenin hızlı render edilmesi için vite kullanıldı. Gruplama işlemleri li
 
 # Tech Stack
 
-Vite,Typescript,MaterialUI, 
+Vite,Typescript,MaterialUI,ApolloClient
