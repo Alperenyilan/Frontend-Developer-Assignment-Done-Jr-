@@ -1,6 +1,6 @@
 # Proje Hakkında Genel Bilgiler
 
-Projenin hızlı render edilmesi için vite kullanıldı. Gruplama işlemleri listeleme işlemi sayfadaki herhangi bir ülkeye tıklanıldığında arka plan rengi farklı bir renk ile değiştirilmesi  sağlandı. Code ve Name göre arama yapılabilir. 
+Projenin hızlı render edilmesi için vite kullanıldı. Gruplama işlemleri listeleme işlemi sayfadaki herhangi bir ülkeye tıklanıldığında arka plan rengi farklı bir renk ile değiştirilmesi  sağlandı. Extradan Code ve Name göre arama yapılabilir. 
 
 # Projeyi Ayağa kaldırmak için
 
